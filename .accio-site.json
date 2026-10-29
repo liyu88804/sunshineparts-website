@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "siteId": "mdkln0d6zkh1jgoy",
+  "name": "SUNSHINE_PARTS_B2B_Landing",
+  "kind": "react-vite",
+  "devCommand": "vite",
+  "buildCommand": "vite build",
+  "outputDir": "dist",
+  "entry": "index.html",
+  "createdBy": "accio-site-builder",
+  "createdAt": "2026-10-16T07:31:27.224Z",
+  "siteIdSyncStatus": "synced",
+  "installedAt": "2026-10-16T07:43:01.931Z",
+  "databaseUrl": ""
+}
